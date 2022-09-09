@@ -1,3 +1,5 @@
+import { Task } from "./Task"
+
 export const TASKS = [
        {
            id: 1,
